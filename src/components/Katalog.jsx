@@ -81,13 +81,12 @@ const Katalog = () => {
               data-aos="fade-up"
               data-aos-delay={(idx % items.length) * 100}
             >
-              <div className="aspect-[3/4] bg-zinc-900 overflow-hidden mb-8 grayscale group-hover:grayscale-0 transition-all duration-700 relative">
+              <div className="aspect-[3/4] bg-zinc-900 overflow-hidden mb-8 transition-all duration-700 relative">
                 <img
                   src={item.image}
                   alt={item.name}
                   className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110 pointer-events-none"
                 />
-                <div className="absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
               </div>
               <h3 className="text-3xl font-black italic tracking-tighter uppercase">{item.name}</h3>
               <div className="w-12 h-[3px] bg-white mt-4 group-hover:w-full transition-all duration-700 ease-out"></div>
