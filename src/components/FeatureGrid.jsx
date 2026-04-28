@@ -34,7 +34,7 @@ const FeatureGrid = () => {
           </div>
           <div className="max-w-md text-right" data-aos="fade-left">
             <p className="uppercase font-bold text-gray-500 tracking-tight">
-              Kami menggabungkan seni desain dengan teknologi sublimasi terbaru untuk memberikan hasil terbaik bagi atlet dan komunitas.
+              Kami menggabungkan seni desain dengan teknologi sublimasi terbaru untuk memberikan hasil terbaik bagi anda.
             </p>
           </div>
         </div>
