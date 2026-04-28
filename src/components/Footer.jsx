@@ -23,7 +23,7 @@ const Footer = () => {
               <div className="flex gap-4 mb-6">
                 <MapPin className="w-5 h-5 flex-shrink-0" />
                 <p className="text-sm font-bold uppercase leading-relaxed">
-                  Jl. Amal No.9, Delima, Kec. Tampan, Kota Pekanbaru, Riau 28292 <br />
+                  Jl. Amal No.19, Delima, Kec. Tampan, Kota Pekanbaru, Riau 28292 <br />
                   Pekanbaru, Riau <br />
                   Indonesia
                 </p>
